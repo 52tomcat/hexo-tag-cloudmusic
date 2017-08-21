@@ -17,9 +17,10 @@ npm install hexo-tag-cloudmusic --save
 ```
 # CloudMusic
 cloudmusic:
-  widgetType:  iframe ## It can be embed or iframe
-  widgetSize:  large ## It can be small or large
-  autoPlay:  0 ## It can be 0 to set autoPlay disable or 1 to set autoPlay enable
+  widgetHost: netease.kuroy.me ## Any reverse host
+  widgetType: iframe ## It can be embed or iframe
+  widgetSize: large ## It can be small or large
+  autoPlay: 0 ## It can be 0 to set autoPlay disable or 1 to set autoPlay enable
 ```
 
 ## 使用
