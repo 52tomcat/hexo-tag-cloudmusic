@@ -16,9 +16,10 @@ npm install hexo-tag-cloudmusic --save
 ## 配置
 ```
 # CloudMusic
-widgetType:  flash ## It can be embed or iframe
-widgetSize:  small ## It can be small or large
-autoPlay:  0 ## It can be 0 to set autoPlay disable or 1 to set autoPlay enable
+cloudmusic:
+  widgetType:  flash ## It can be embed or iframe
+  widgetSize:  small ## It can be small or large
+  autoPlay:  0 ## It can be 0 to set autoPlay disable or 1 to set autoPlay enable
 ```
 
 ## 使用
